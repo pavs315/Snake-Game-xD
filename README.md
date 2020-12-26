@@ -1,1 +1,1 @@
-# Snake-Game-xD
+# Snake Game in JS
